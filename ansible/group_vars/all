@@ -1,0 +1,10 @@
+---
+# MySQL
+root_db_password: secret
+
+db_name: test
+db_user: admin
+db_password: admin
+
+# phpMyAdmin
+phpmyadmin_version: 4.3.6
